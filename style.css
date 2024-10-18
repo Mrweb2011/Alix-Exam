@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(66, 60, 65);
+    display: flex;
+    gap: 30px;
+    color: #FFFFFF;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+header img{
+    width: 20px;
+    height: 20px;
+    margin-left: 100px;  
+}
+header h4{
+    color: #3A68B8;
+    font-family: sans-serif;
+}
+header button{
+    background-color: #3A68B8;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+    color: #FFFFFF;
+    margin-left: 120px;
+}
+ul{
+    display: flex;
+    gap: 40px;
+    margin-left: 40px;
+}
+ul li{
+    list-style: none;
+    font-family: sans-serif;
+}
+.About{
+    background-color: rgb(66, 66, 65); 
+}
+.About_nav{
+    background-color: rgb(66, 66, 65);
+    display: flex;
+}
+.About_text{
+    margin-left: 100px;
+    font-family: sans-serif;
+}
+.About_text h4{
+    color: #3A68B8;
+    margin-top: 100px;
+}
+.About_text h1{
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.About_text p{
+    color: #FFFFFF;
+    margin-top: 25px;
+}
+.About_text button{
+    background-color: #3A68B8;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.btn i{
+    margin-right: 10px;
+}
+.About_img img{
+    width: 470px;
+    height: 470px;
+    margin-left: 50px;
+}
+.About_img2 img{
+    height: 40px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+}
+.oxiri{
+    background-color: rgb(66, 63, 65);
+    display: flex;
+    font-family: sans-serif;
+}
+.oxiri_img img{
+    width: 400px;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.oxiri_text{
+    margin-top: 130px;
+    margin-left: 50px;
+}
+.oxiri_text h1{
+    color: #FFFFFF;
+}
+
+.oxiri_text p{
+    color: #FFFFFF;
+    font-size: 10px;
+    margin-top: 20px;
+}
+.oxiri_text button{
+    background-color: #3A68B8;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-top: 20px;
+}
